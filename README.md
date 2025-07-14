@@ -16,11 +16,30 @@ This system is made to help my cliend handle appointment bookings.
 - Custom Blade views and responsive Tailwind layout
 - Scroll-based animations for a smooth user experience
 
+## 💻 Tech Used
+
+### 🔙 Backend
+- PHP 8+
+- Laravel Framework
+- MySQL Database
+- Laravel Eloquent ORM
+
+### 🎨 Frontend
+- Blade Templating Engine
+- Tailwind CSS
+- Vanilla JavaScript
+- Font Awesome (icons)
+
+### 🛠 Tools & Features
+- Composer (PHP dependency manager)
+- AJAX for dynamic UI
+- Responsive layout
+- Scroll-based animations
 
 ---
 
 
-## 📸 Screenshots
+## 📸 Landing Page
 
 ![Admin View](public/images/landing-page.png)
 
